@@ -96,12 +96,12 @@ button{
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        height: 160vh;
+        height: 150vh;
         
      
      }
      .container{
-        background-image: url(./img/download\ \(6\).jpeg);
+        background-image: url(img/download\ \(6\).jpeg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -139,8 +139,8 @@ button{
      }
      .img{
         position: absolute;
-        top: -15px;
-        margin-left: 50px;
+        top: -20px;
+        margin-left: 20px;
      }
      .button{
         display: flex;
