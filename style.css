@@ -101,7 +101,7 @@ button{
      
      }
      .container{
-        background-image: url(img/download\ \(6\).jpeg);
+        background-image: url(./img/download.jpeg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -174,7 +174,6 @@ button{
      }
      .footer{
         /* background-color: black; */
-        /* width: 10vw; */
         align-items: center;
         margin-left: 1rem;
         display: flex;
