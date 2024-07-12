@@ -96,7 +96,7 @@ button{
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        height: 170vh;
+        height: 160vh;
         
      
      }
@@ -174,7 +174,7 @@ button{
      }
      .footer{
         /* background-color: black; */
-        width: 10vw;
+        /* width: 10vw; */
         align-items: center;
         margin-left: 1rem;
         display: flex;
